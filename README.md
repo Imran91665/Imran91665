@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Imran91665
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Visualizing
+- 🌱 I’m currently learning how to integrate data science with other sectors
 - 💞️ I’m looking to collaborate on a Data Science project
 - 📫 You can contact me via imranshimanto69@gmail.com
 
